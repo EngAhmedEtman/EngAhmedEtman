@@ -4,7 +4,7 @@ PHP | Laravel Backend Developer </h1>
 ###
 
 <p align="left">My name is Ahmed and I'm a Backend Developer | php laravel| from Egypt
-c |c++ | js | php </p>
+c |c++ | php </p>
 
 ###
 
@@ -36,7 +36,7 @@ c |c++ | js | php </p>
   </p>
 
   <p align="left"> <!-- Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhokh&layout=compact&langs_count=5&theme=codeSTACKr"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngAhmedEtman&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
 </div>
