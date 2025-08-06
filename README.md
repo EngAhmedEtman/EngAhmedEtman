@@ -1,9 +1,9 @@
-<h1 align="left">Mustafa Khalid
+<h1 align="left">Ahmed Etman
 PHP | Laravel Backend Developer </h1>
 
 ###
 
-<p align="left">My name is Mostafa and I'm a Backend Developer | php laravel| from Egypt
+<p align="left">My name is Ahmed and I'm a Backend Developer | php laravel| from Egypt
 c |c++ | js | php </p>
 
 ###
@@ -11,19 +11,19 @@ c |c++ | js | php </p>
 <h2 align="left"></h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
+  <a href="https://www.linkedin.com/in/engahmedetman/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
       </a>
-    <a href="https://x.com/ElkhokhyMostafa">
+    <a href="">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="35" alt="twitter logo"  />
     </a>
-      <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
+      <a href="https://www.linkedin.com/in/engahmedetman/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo"  />
     </a>
-      <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
+      <a href="https://www.linkedin.com/in/engahmedetman/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="35" alt="youtube logo"  />
     </a>
-        <a href="https://wa.me/+201004643861">
+        <a href="https://wa.me/+201070191977">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="35" alt="whatsapp logo"  />
     </a>
 </div>
